@@ -1,0 +1,6 @@
+[Help2man]
+git-tree-sha1 = "813ac23554827941cfba9733cdb17f6bcb19d404"
+
+    [[Help2man.download]]
+    sha256 = "9f1a51aa075dfbdd05dd66e3620539f4ed05b309f6903061e100720ee3768c0f"
+    url = "https://github.com/JuliaBinaryWrappers/Help2man_jll.jl/releases/download/Help2man-v1.48.1+0/Help2man.v1.48.1.any.tar.gz"
